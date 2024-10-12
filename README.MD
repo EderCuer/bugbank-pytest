@@ -2,7 +2,7 @@
 # Projeto de automação com pytest
 
 <p align="center">
-  <img width="460" height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT53FNUfoJOMmuxHw_461WuMi5GZ7nQHoRjtg&s">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT53FNUfoJOMmuxHw_461WuMi5GZ7nQHoRjtg&s">
 </p>
 
 
